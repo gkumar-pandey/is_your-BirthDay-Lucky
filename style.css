@@ -88,7 +88,7 @@ footer {
     /* border: 1px solid red; */
     padding: 0.4rem 0;
     bottom: 0;
-    position: absolute;
+    position: fixed;
     width: 100%;
     text-align: center;
     height: 4rem;
